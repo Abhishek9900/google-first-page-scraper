@@ -1,0 +1,1 @@
+Simple python scraper to get the title and hyperlink of first page results of google and also the links inside of those first page links.
